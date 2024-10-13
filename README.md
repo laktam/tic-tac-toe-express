@@ -1,7 +1,6 @@
 # Online Multiplayer Tic-Tac-Toe Game with Socket.io
 
-This is a Node.js based multiplayer Tic-Tac-Toe game that allows players to create game lobbies, invite other players, and play in real-time using WebSockets powered by Socket.io.
-
+This is a Node.js based multiplayer Tic-Tac-Toe game that allows players to create game lobbies, invite other players, and play in real-time.
 ## Features
 
 - Real-time gameplay.
