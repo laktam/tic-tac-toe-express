@@ -4,7 +4,7 @@ This is a Node.js based multiplayer Tic-Tac-Toe game that allows players to crea
 
 ## Features
 
-- Real-time gameplay using WebSockets.
+- Real-time gameplay.
 - Players can invite others using there generated id to join a lobby and start a game.
 
 [Front-End Repository](https://github.com/laktam/tic-tac-toe-online-front-end/)
